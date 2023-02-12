@@ -1,5 +1,4 @@
-import main.java.mockito.StudentDataObject;
-
+import mockito.StudentDataObject;
 
 public class OnlineEducationServiceTest {
 
